@@ -1,0 +1,18 @@
+name: block breaker.
+objective: a moving line on the bottom of the screen will be given a ball that will bounce up and down, at random directions, to
+hit a block. the player must hit all of the blocks to win.
+
+images: 
+1. the block.
+2. the breaker.
+3. and the ball.
+
+powerups: 
+1. 2 balls firing at once.
+2. lengthen the width of the breaker. 
+3. gain back a life.
+
+set backs:
+4. shorten the width of the breaker.
+5. more blocks added.
+6. subtract a life.
